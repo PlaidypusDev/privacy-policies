@@ -1,3 +1,5 @@
+# FrontSeat (Driver App)
+
 **Privacy Policy**
 
 Plaidypus, Inc. built the FrontSeat (Driver App) app as a Free app. This SERVICE is provided by Plaidypus, Inc. at no cost and is intended for use as is.
