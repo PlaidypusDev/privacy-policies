@@ -21,6 +21,11 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Expo](https://expo.io/privacy)
 
+**Location Data**
+To provide our services, we require access to your device’s location. This enables us to pinpoint your location as a driver and connect you with nearby riders.
+
+We will retain your location data only as long as necessary to fulfill the purposes outlined in this Privacy Policy. You may deactivate location tracking through your device settings at any time, but this may limit the functionality of the App.
+
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
