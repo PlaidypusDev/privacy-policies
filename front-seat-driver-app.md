@@ -22,6 +22,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Expo](https://expo.io/privacy)
 
 **Location Data**
+
 To provide our services, we require access to your device’s location. This enables us to pinpoint your location as a driver and connect you with nearby riders.
 
 We will retain your location data only as long as necessary to fulfill the purposes outlined in this Privacy Policy. You may deactivate location tracking through your device settings at any time, but this may limit the functionality of the App.
